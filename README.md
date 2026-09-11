@@ -6,4 +6,7 @@ Tunnis õpetajaga koos tehtud skriptid.
 * ```for_loop.py``` For-loop toimetamised listidega
 * ```funktsioonid``` Katsetused funktsioonidega
 * ```game.py``` Äraarvamise mäng
-* ```listid.py``` Kogu informatsioon listidest  
+* ```listid.py``` Kogu informatsioon listidest
+
+Õppimiseks kasuta [Progeõpikut](https://progeopik.cs.ut.ee/).
+  

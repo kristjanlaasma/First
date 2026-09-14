@@ -1,0 +1,12 @@
+joe;2
+Emma;5
+joonas;49
+tauri;43
+kevin;76
+kristjan;71
+daniel;122
+frank;122
+tere;80
+hanno;57
+joemama;106
+dih;53
